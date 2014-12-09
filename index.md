@@ -20,7 +20,7 @@ knit        : slidify::knit2slides
 
 ---
 
-## Motion Chart
+## Slide 2
 
 > 1. Another numbered list!
 > 2. Who knew?
