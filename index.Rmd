@@ -14,7 +14,7 @@ knit        : slidify::knit2slides
 
 ## Slide 1
 
-> 1. Another numbered list
+> 1. Numbered list
 > 2. Continuing here
 > 3. More list items!
 
@@ -22,8 +22,4 @@ knit        : slidify::knit2slides
 
 ## Motion Chart
 
-```{r echo = F, results = 'asis', message = F}
-require(googleVis)
-M1 = gvisMotionChart(Fruits, idvar = 'Fruit', timevar = 'Year')
-print(M1, tag = 'chart')
-```
+
