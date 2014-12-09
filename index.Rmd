@@ -1,8 +1,8 @@
 ---
-title       : 
-subtitle    : 
-author      : 
-job         : 
+title       : My first deck
+subtitle    : Slidify and R
+author      : Barry Pace
+job         : -
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -21,6 +21,10 @@ knit        : slidify::knit2slides
 
 ## Slide 2
 
+1. Another numbered list
+2. Continuing here
+
+---
 
 
 
